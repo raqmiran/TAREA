@@ -1,0 +1,38 @@
+    <style>
+
+        h1 {
+            color: lightblue; text-align: center;
+        }
+
+        h3 {
+            background-color: lightblue; text-align: center; color: white;
+        }
+
+        h4 {
+            text-align: center; margin: auto;
+        }
+
+        h2 {
+            color: lightblue; text-align: center;
+        }
+
+        h5{
+            text-align: center;
+            border-radius: 200px;
+            outline: black;
+            background: lightyellow;
+            padding: 20px; 
+            width: 200px;
+            height: 100px; 
+            margin: auto;
+            }
+
+        h6 {
+            background-color: lightblue; text-align: center; color: white;
+        }
+
+        h1 {
+            color: lightblue; text-align: center;
+        }
+    </style>
+
